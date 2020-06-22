@@ -18,7 +18,7 @@ print(obj.capitalize())
 #Conditionals and Boolean Operations
 x = 10  #Assignment operation
 #if-else statements
-if x == 4:            #Boolean Operation, comparing
+if x == 4:            #comparing
     print("Value is equal to 4")
 #else if
 elif x < 4:
